@@ -1,6 +1,3 @@
-# DSA-Preparation
-problems
-
 
 // implementation of stack using array
 
